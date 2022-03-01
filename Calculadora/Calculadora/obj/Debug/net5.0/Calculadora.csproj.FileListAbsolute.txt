@@ -1,0 +1,16 @@
+C:\Users\giova\Desktop\ETEC_2\DS\Atividade 2 Calculadora\Calculadora_simples\Calculadora\Calculadora\bin\Debug\net5.0\Calculadora.exe
+C:\Users\giova\Desktop\ETEC_2\DS\Atividade 2 Calculadora\Calculadora_simples\Calculadora\Calculadora\bin\Debug\net5.0\Calculadora.deps.json
+C:\Users\giova\Desktop\ETEC_2\DS\Atividade 2 Calculadora\Calculadora_simples\Calculadora\Calculadora\bin\Debug\net5.0\Calculadora.runtimeconfig.json
+C:\Users\giova\Desktop\ETEC_2\DS\Atividade 2 Calculadora\Calculadora_simples\Calculadora\Calculadora\bin\Debug\net5.0\Calculadora.runtimeconfig.dev.json
+C:\Users\giova\Desktop\ETEC_2\DS\Atividade 2 Calculadora\Calculadora_simples\Calculadora\Calculadora\bin\Debug\net5.0\Calculadora.dll
+C:\Users\giova\Desktop\ETEC_2\DS\Atividade 2 Calculadora\Calculadora_simples\Calculadora\Calculadora\bin\Debug\net5.0\ref\Calculadora.dll
+C:\Users\giova\Desktop\ETEC_2\DS\Atividade 2 Calculadora\Calculadora_simples\Calculadora\Calculadora\bin\Debug\net5.0\Calculadora.pdb
+C:\Users\giova\Desktop\ETEC_2\DS\Atividade 2 Calculadora\Calculadora_simples\Calculadora\Calculadora\obj\Debug\net5.0\Calculadora.csproj.AssemblyReference.cache
+C:\Users\giova\Desktop\ETEC_2\DS\Atividade 2 Calculadora\Calculadora_simples\Calculadora\Calculadora\obj\Debug\net5.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giova\Desktop\ETEC_2\DS\Atividade 2 Calculadora\Calculadora_simples\Calculadora\Calculadora\obj\Debug\net5.0\Calculadora.AssemblyInfoInputs.cache
+C:\Users\giova\Desktop\ETEC_2\DS\Atividade 2 Calculadora\Calculadora_simples\Calculadora\Calculadora\obj\Debug\net5.0\Calculadora.AssemblyInfo.cs
+C:\Users\giova\Desktop\ETEC_2\DS\Atividade 2 Calculadora\Calculadora_simples\Calculadora\Calculadora\obj\Debug\net5.0\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\giova\Desktop\ETEC_2\DS\Atividade 2 Calculadora\Calculadora_simples\Calculadora\Calculadora\obj\Debug\net5.0\Calculadora.dll
+C:\Users\giova\Desktop\ETEC_2\DS\Atividade 2 Calculadora\Calculadora_simples\Calculadora\Calculadora\obj\Debug\net5.0\ref\Calculadora.dll
+C:\Users\giova\Desktop\ETEC_2\DS\Atividade 2 Calculadora\Calculadora_simples\Calculadora\Calculadora\obj\Debug\net5.0\Calculadora.pdb
+C:\Users\giova\Desktop\ETEC_2\DS\Atividade 2 Calculadora\Calculadora_simples\Calculadora\Calculadora\obj\Debug\net5.0\Calculadora.genruntimeconfig.cache
